@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UhvtudEqNG5xlQuXXIPKjrs1cfyuHB6/nwL90QWjFzY=",
+  "Source": "subscription_api",
+  "BasePath": "_content/subscription_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

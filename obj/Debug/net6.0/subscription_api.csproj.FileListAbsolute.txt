@@ -1,0 +1,474 @@
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\appsettings.json
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.exe
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Snappier.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\Dependra Malik\Desktop\subscription_api\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Dependra Malik\Desktop\subscription_api\bin\Debug\net6.0\RabbitMQ.Client.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\appsettings.Development.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\appsettings.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\subscription_api.exe
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\subscription_api.deps.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\subscription_api.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\subscription_api.pdb
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\AWSSDK.Core.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\DnsClient.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Google.Protobuf.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\IdentityModel.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\IdentityServer4.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\IdentityServer4.Storage.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\MongoDB.Bson.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\MongoDB.Driver.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\MySql.Data.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\ZstdNet.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\RabbitMQ.Client.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\SharpCompress.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\Snappier.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.Drawing.Common.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.Security.Permissions.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\ZstdSharp.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\staticwebassets.build.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\staticwebassets.development.json
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\refint\subscription_api.dll
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.pdb
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+B:\INTERN\DOTNET_INTERN\Dependra\subscription_api\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\appsettings.json
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.exe
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\DnsClient.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\Snappier.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akashsaini\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.dll
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\akashsaini\Desktop\subscription_api\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\appsettings.json
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.exe
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\DnsClient.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\Snappier.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\shubhamsingla\Desktop\subscription_api\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\appsettings.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\subscription_api.exe
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\DnsClient.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\Snappier.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_old\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\appsettings.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\subscription_api.exe
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\DnsClient.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\Snappier.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\shubhamsingla\Desktop\subscription_api_\obj\Debug\net6.0\ref\subscription_api.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\appsettings.json
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\subscription_api.exe
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\subscription_api.deps.json
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\subscription_api.runtimeconfig.json
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\subscription_api.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\subscription_api.pdb
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\DnsClient.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\Snappier.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anupandey\Documents\subscription_api_\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.AssemblyReference.cache
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.AssemblyInfoInputs.cache
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.AssemblyInfo.cs
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.CoreCompileInputs.cache
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets\msbuild.subscription_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets\msbuild.build.subscription_api.props
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.subscription_api.props
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.subscription_api.props
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\scopedcss\bundle\subscription_api.styles.css
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.csproj.CopyComplete
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.dll
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\refint\subscription_api.dll
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.pdb
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\subscription_api.genruntimeconfig.cache
+C:\Users\anupandey\Documents\subscription_api_\obj\Debug\net6.0\ref\subscription_api.dll
