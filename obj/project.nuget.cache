@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "11QfkekRediUutH6hXSKjAIJwC5hYie1HVEvHez6bNlthEIEYj1lnqutkGxvlPsbX1mgn0N5n47LLBz/loRF0A==",
+  "dgSpecHash": "ZVhXIAz/aSnQ4FgFa6wMAH5MBabtOYCE0LLUg6coVrAYMucHr9UD5RIDfCszJAHaF9/ehL5fYzU9IjtYBVZtgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\anupandey\\Pictures\\subscription_api_\\subscription_api.csproj",
   "expectedPackageFiles": [
@@ -61,7 +61,7 @@
       "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 3.1.9 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
       "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
       "targetGraphs": [
-        "net6.0"
+        "net8.0"
       ]
     }
   ]
